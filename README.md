@@ -1,4 +1,4 @@
-# Chat-Server
+# Chat Server
 
 This project is a localised chart server using FIFOs in C.
 
