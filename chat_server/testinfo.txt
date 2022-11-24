@@ -1,0 +1,13 @@
+1. basic_connect: tests when a client of a domain wants to connect.
+2. basic_sayrecv: tests when one client SAY to other clients in a domain.
+3. basic_srcont: tests when one client SAYCONT to other clients in a domain.
+4. disconnect: tests when a client DISCONNECTs, if the pipes are gone.
+5. everyone_receives_say: tests if everyone in the domain (excluding the sender) receives the SAY message.
+6. everyone_receives_srcont: tests if everyone in the domain (excluding the sender) receives the SAYCONT message.
+7. invalid_msg: tests when an invalid message (NULL, or invalid type number).
+8. long_name_connect: tests if pipes are created when an id_name is very long.
+9. multiple_clients_connect: tests when multiple clients of a domain wants to connect.
+10. multiple_domains_connect: tests when multiple clients of multiple domains wants to connect.
+11. multiple say_recv: tests when multiple clients SAY to other clients in a domain.
+12. multiple say_recv2: tests when multiple clients SAY to other clients in a domain at the same time and between intervals.
+13. nested_domain: tests when multiple clients of nested domain wants to connect.

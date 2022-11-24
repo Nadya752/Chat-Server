@@ -1,0 +1,18 @@
+Pipe gevent is open
+Domain Gryffindor exists
+Pipe Ron_RD is open
+Pipe Ron_WR is open
+Pipe Harry_RD is open
+Pipe Harry_WR is open
+Pipe Hermione_RD is open
+Pipe Hermione_WR is open
+Domain Ravenclaw exists
+Pipe Cho_RD is open
+Pipe Cho_WR is open
+Pipe Luna_RD is open
+Pipe Luna_WR is open
+Domain Slytherin exists
+Pipe Draco_WR is open
+Pipe Draco_RD is open
+Pipe Blaise_RD is open
+Pipe Blaise_WR is open
